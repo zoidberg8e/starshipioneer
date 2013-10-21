@@ -1,0 +1,5 @@
+trunc/build*
+
+*.o
+*~
+*.user

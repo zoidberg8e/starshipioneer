@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Tux.png</file>
+        <file>stars.jpg</file>
+    </qresource>
+</RCC>
